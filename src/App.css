@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #aab8ff;
+  background-image: linear-gradient(
+    43deg,
+    #dad68e 100%,
+    #c850c0 0%,
+    #ffcc70 0%
+  );
+}
+
+.fondoCard{
+  
+  background-color: #d1cda1;
+  background-image: linear-gradient(
+    43deg,
+    #b6b47f 100%,
+    #c850c0 0%,
+    #ffcc70 0%
+    );
+  }
